@@ -1,0 +1,14 @@
+Testsuite: ConfiguratorTest
+Tests run: 11, Failures: 0, Errors: 0, Time elapsed: 1.2 sec
+
+Testcase: testParseFile took 0.432 sec
+Testcase: testSetProperty took 0.05 sec
+Testcase: testGetProperty took 0.064 sec
+Testcase: testSubstitution took 0.087 sec
+Testcase: testGrouping took 0.089 sec
+Testcase: testScoping took 0.089 sec
+Testcase: testMethodCall took 0.061 sec
+Testcase: testMissingProperty took 0.048 sec
+Testcase: testMissingMethod took 0.064 sec
+Testcase: testFlatten took 0.108 sec
+Testcase: testToProperties took 0.067 sec
